@@ -1,5 +1,5 @@
 # Contents for CC Certification Draft 2.0
-![Team CC-Certifiers)[./team-cc-cert.jpg]
+![Team CC-Certifiers](./team-cc-cert.jpg)
 
 Making this because editing the spreadsheet is a bear-- converted the spreadsheet content to Markdown.
 
