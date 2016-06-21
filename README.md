@@ -7,6 +7,7 @@ Fork this repo! and make derivatives for versions based on meeting feedback. Wil
 
 ## Contents
 * [Version 1.1](./v1.1.md) (retired)
-* [Version 2.0](./v2.0.md) (current master version, either fork this file, rename, and submit pull, or make a new full using contents as base) 
-  * [Government Version](./v2.0-gov.md) by Alan from May 13 Washington DC meeting
-  * [Education Version](./v2.0-edu.md) by Kamil from May 13 Washington DC meeting
+* [Version 2.0](./v2.0.md) (current master version, either fork this file, rename, and submit pull, or make a new full using contents as base)
+  * [Group 1-2-6-7 Notes](./v2.0-group1267.md) by Alan from May 12 Washington DC meeting
+* [Government Version](./v2.0-gov.md) by Alan from May 13 Washington DC meeting
+* [Education Version](./v2.0-edu.md) by Kamil from May 13 Washington DC meeting
